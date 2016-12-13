@@ -6,6 +6,7 @@ description: null
 image: null
 author: null
 ---
+
 At first glance, you may mistake a Bombay cat for a miniature panther. In fact, that is why the breed was created by Louisville, KY breeder Nikki Horner, who set her sights on producing a copper-eyed, black shorthaired cat with the exotic appearance of a mini or “parlor” panther. The black leopard of India inspired her choice of the breed’s name.
 
 Cookies A.K.A Panther or Panties to those close to him, is a very lively Bombay cat, playful and affectionate, he loves people and is adaptable to many different environments and lifestyles. He prefers to stay indoors so letting him out is a big no-no! 
