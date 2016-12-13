@@ -1,12 +1,12 @@
 # Site settings
 title: 
 subtitle: 
-email: paulomoreiraesilva@gmail.com
+email: takecookieshome@gmail.com
 description: Super friendly Bombay cat needs a home <br /> while his owner is away...will you keep him?
-baseurl: "/mynameiscookies" # the subpath of your site, e.g. /blog
-url: "https://pmoreiraesilva.github.io" # the base hostname & protocol for your site
+baseurl: "/hello" # the subpath of your site, e.g. /blog
+url: "https://iamcookies.github.io" # the base hostname & protocol for your site
 author:
-street_address: Park West 18 Jalan Lempeng 03-05
+street_address: 
 city: Singapore
 state: 
 zip_code: 128801
@@ -20,7 +20,7 @@ tiles-count: 6
 # Social settings
 500px_url:
 facebook_url:
-github_url: https://pmoreiraesilva.github.io/mynameiscookies/
+github_url: https://iamcookies.github.io/hello/
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
